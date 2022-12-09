@@ -170,3 +170,12 @@ button {
 
 
 }
+.icon-holder{
+    position: absolute;
+    left: 88%;
+    margin-top: 15px;
+}
+.icons{
+    font-size: 25px;
+    margin: 0 12px;
+}
